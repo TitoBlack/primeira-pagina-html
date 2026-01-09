@@ -1,2 +1,2 @@
-# primeira-pagina-html
-Minha primeira página em HTML
+# html-css-fundamentos
+Projeto de estudo: primeira página em HTML com aplicação de CSS.
